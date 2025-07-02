@@ -17,4 +17,7 @@ This is a terminal-based Blackjack game built in modern C++, with a clean, modul
 - Robust input validation and real-time player feedback
 
 # Demo
+Walkthrough of example output with Blackjack simulation.
+
+[Click to watch video](https://github.com/user-attachments/assets/29269b00-75e5-4d24-8afd-644d6e0e6b8d)
 
